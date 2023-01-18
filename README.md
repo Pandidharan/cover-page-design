@@ -32,12 +32,12 @@ Then create appropiate views for your templates and provide the urls for them in
 
         .bookpage{
             width: 400px;
-            height: 600px;
+            height: 700px;
             background-color: #3d3a3a;
             color:white;
             margin-left: auto;
             margin-right: auto;
-            padding: 50px;
+            padding: 30px;
             font-family: 'Franklin Gothic Heavy', 'Arial Narrow', Arial, sans-serif;
             background-image: url(/static/images/pngtree.jpg);
             background-size: cover;
